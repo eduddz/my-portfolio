@@ -1,16 +1,30 @@
 header {
-    padding: 1rem;
+    padding: 1rem 2rem;
+    background: rgb(235, 235, 235);
 
     div {
         display: flex;
         justify-content: space-between;
+        align-items: center;
 
         ul {
             display: flex;
-            gap: 15px;
+            gap: 20px;
 
             li {
                 list-style: none;
+                display: flex;
+                align-items: center;
+                gap: 10px;
+                padding: .5rem .8rem;
+                border-radius: 10px;
+                background-color: rgb(0, 140, 255);
+                color: white;
+                cursor: pointer;
+
+                &:hover {
+                    box-shadow: 1px 1px 5px #000;
+                }
             }
         }
     }

@@ -22,6 +22,10 @@ For install sass
 
     npm i sass
 
+For install phosphor-react
+
+    npm i phosphor-react
+
 ## Explicado um pouco sobre o desenvolvimento do projeto 📽️
 
 Tive a ideia de criar um porfolio novo, focado no visual (🎨) sem perder a responsividade.

@@ -2,6 +2,7 @@
 
 Estou desenvolvendo esse site para mostrar meus projetos, falar sobre mim e as experiências ao longo da carreira.
 O portfolio utiliza as tecnologias mais modernas do mercado de trabalho, como por exemplo: 
+
     🟥 React
     🟦 Typescript
     🟨 Sass

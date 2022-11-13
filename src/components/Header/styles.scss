@@ -1,0 +1,17 @@
+header {
+    padding: 1rem;
+
+    div {
+        display: flex;
+        justify-content: space-between;
+
+        ul {
+            display: flex;
+            gap: 15px;
+
+            li {
+                list-style: none;
+            }
+        }
+    }
+}
